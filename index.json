@@ -1,0 +1,11 @@
+{
+  "org": "ipython",
+  "repo": "pickleshare",
+  "versions": [
+    {
+      "commit": "9f0a267b02063bc01bd8a44c54909dab62a590a8",
+      "tag": "",
+      "parsed_at": "2026-10-12T03:01:49.526585+00:00"
+    }
+  ]
+}
