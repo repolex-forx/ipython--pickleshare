@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "ipython",
+  "repo": "pickleshare",
+  "versions": [
+    {
+      "commit": "9f0a267b02063bc01bd8a44c54909dab62a590a8",
+      "parsed_at": "2026-10-12T02:59:27.650535+00:00",
+      "filetree": "filetree/9f0a267b02063bc01bd8a44c54909dab62a590a8.nq.gz",
+      "blobs": [
+        "blob/c4c870879b1c698ff9b791ecb5da8fc3848e363c.nq.gz",
+        "blob/53afb18c9ef1f9a80142d7294b177775b0e8bcdf.nq.gz",
+        "blob/e8f60c3ecd031106e2bc79034690f3bff2eebfcb.nq.gz",
+        "blob/086f84f6eae948965ee5022a04f917e450458d66.nq.gz",
+        "blob/52c3866086332c014f964f5cb4749423215c131b.nq.gz",
+        "blob/76ab20c8bc79d9edba05d8fe5aaeacc0890c51dc.nq.gz",
+        "blob/3c6e79cf31da1c0433d2fa666bf50b53f6359f26.nq.gz",
+        "blob/c5b40f13e26be345532810003dd27eefd2f94b35.nq.gz",
+        "blob/a7e8ea5ed256c70b9be0fea010d7f4195d6241af.nq.gz",
+        "blob/480c137fc5c9bce022acfc51d556b6442b9fd2f8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
